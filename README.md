@@ -38,12 +38,12 @@
 > En portfolio podemos encontrar varias opciones, comprobar el balance, si tenemos algunos coleccionables, ver nuestra wallet, el QR de la misma e incluso una opción "Print" con la que podemos tener los datos de recuperación de nuestra wallet para imprimirla en un papel.
 
 
-### En la parte de "Balance" dentro de "Portfolio" podemos ver el total de nuestros fondos *(si hacemos clic en "Show Breakdown vemos más información, como los fondos de la "P-chain" y los fondos de la "X-chain")*. 
-- "Available (X)": Los fondos que tenemos disponibles *(en mainnet algunos los tenemos bloqueados y otros podemos enviarlos)*.
-- "Locked (X)": Los fondos que tenemos bloqueados en la "X-chain" y no podemos mover.
-- "Locked (P)": Fondos que tenemos bloqueados en la "P-chain" y no podemos mover.
-- "Locked Stakeable (P)": Fondos que tenemos bloqueados pero podemos hacer staking con ellos.
-- "Staking": Los fondos que tenemos en staking *(delegados)*.
+### En la parte de "Balance" dentro de "Portfolio" podemos ver el total de nuestros fondos *(si hacemos clic en "Show Breakdown" vemos más información, como los fondos de la "P-chain" y los fondos de la "X-chain")*. 
+- "`Available (X)`": Los fondos que tenemos disponibles *(en mainnet algunos los tenemos bloqueados y otros podemos enviarlos)*.
+- "`Locked (X)`": Los fondos que tenemos bloqueados en la "X-chain" y no podemos mover.
+- "`Locked (P)`": Fondos que tenemos bloqueados en la "P-chain" y no podemos mover.
+- "`Locked Stakeable (P)`": Fondos que tenemos bloqueados pero podemos hacer staking con ellos.
+- "`Staking`": Los fondos que tenemos en staking *(delegados)*.
 ![image9](/images/ava9.png)
 
 ### La pestaña "Manage" podemos ver "REMEMBER KEYS"*(recordar claves, inseguro)*, "IMPORT KEYS"*(importar claves)* y "EXPORT KEYS"*(exportar claves)*.
@@ -58,16 +58,16 @@
 ![image12-gif](/images/ava1.gif)
 
 ### En la pestaña "Send" tenemos las opciones para la gestion de nuestros fondos, como la cantidad que queremos enviar *(A)*, la dirección a la que queremos enviar *(B)* y un campo "memo" *(C)* para añadir algunas palabras, también vemos "Transaction Fee" *(D)* que es la comisión que pagaremos por realizar la transacción.
-![imagen13](/images/ava12.png)
+![imagen13](/images/ava13.png)
 
 ### En la pestaña "Earn" podemos ver la parte de staking:
-- "Validate": Si tenemos un nodo y queremos ser validadores.
-- "Delegate": En caso de tener fondos pero no querer gestionar el nodo.
-- "Cross Chain Transfer": Para realizar el staking necesitamos fondos en la "P-chain", aquí podemos realizar esas operaciones.
-- "Estmated Rewards": Aquí comprobamos los beneficios que vamos obteniendo o el estimado.
+- "`Validate`": Si tenemos un nodo y queremos ser validadores.
+- "`Delegate`": En caso de tener fondos pero no querer gestionar el nodo.
+- "`Cross Chain Transfer`": Para realizar el staking necesitamos fondos en la "P-chain", aquí podemos realizar esas operaciones.
+- "`Estimated Rewards`": Aquí comprobamos los beneficios que vamos obteniendo o el estimado.
 ![imagen14](/images/ava14.png)
 
-### Para realizar la delegación, en la pestaña "Earn" seleccionamos "Cross Chain Transfer" > "Transfer", e introducimos la cantidad que deseamos pasar a la "P-chain" para delegar, __(recordad no delegar el 100% de los fondos, pues necesitaremos algunos libres para pagar la comisión y en caso de necesitar realizar alguna otra gestión de nuestra wallet)__ y después confirmamos *(clic en "CONFIRM")*. Podemos comprobar el movimiento que vamos a realizar y todos los datos del mismo, cantidad en la "X-chain", cantidad que vamos a transferir a la "P-chain" y comisión *(Fee)*; ya hacemos clic en "TRANSFER" para realizar la transferencia y en unos pocos segundos podremos ver la información de lo que acabamos de realizar. 
+### Para realizar la delegación, en la pestaña "Earn" seleccionamos `"Cross Chain Transfer" > "Transfer"`, e introducimos la cantidad que deseamos pasar a la "P-chain" para delegar, **(recordad no delegar el 100% de los fondos, pues necesitaremos algunos libres para pagar la comisión y en caso de necesitar realizar alguna otra gestión de nuestra wallet)** y después confirmamos *(clic en "CONFIRM")*. Podemos comprobar el movimiento que vamos a realizar y todos los datos del mismo, cantidad en la "X-chain", cantidad que vamos a transferir a la "P-chain" y comisión *(Fee)*; y hacemos clic en "TRANSFER" para realizar la transferencia, en unos pocos segundos podremos ver la información de lo que acabamos de realizar. 
 ![image15-gif](/images/ava2.gif)
 
 > Una vez terminado los pasos podemos hacer clic en "BACK TO EARN" para volver a la pestaña "Earn", y podemos comprobar que ya vemos en color rosa las opciones de "ADD VALIDATOR" y "ADD DELEGATOR".
@@ -79,13 +79,13 @@
 ![image17-gif](/images/ava3.gif)
 
 ### Vamos a ver las opciones en la parte de "Earn / Delegate":
-- "Selected Node": Nodo seleccionado.
-- "Delegation Fee": La comisión del validador.
-- "End Date": Final del período en el cual el validador estará activo.
-- "Start Date & Time": Día y hora en el cual empezaremos a delegar o stakear nuestros fondos.
-- "End Date & Time": Día y hora en el cual terminará nuestra delegación.
-- "Stake Amount": Cantidad que vamos a estakear *(no podemos delegar el 100% pues necesitamos algunos fondos libres para la comisión de la transacción y futuros movimientos)*
-- "Reward Address": Wallet donde irán los AVAX que obtendremos como beneficio por stakear nuestros fondos, podemos seleccionar "Use this wallet" para que los beneficios vayan a la misma wallet desde la que estamos realizando el stake, o "Custom Address" para que vayan a otra wallet.
+- "`Selected Node`": Nodo seleccionado.
+- "`Delegation Fee`": La comisión del validador.
+- "`End Date`": Final del período en el cual el validador estará activo.
+- "`Start Date & Time`": Día y hora en el cual empezaremos a delegar o stakear nuestros fondos.
+- "`End Date & Time`": Día y hora en el cual terminará nuestra delegación.
+- "`Stake Amount`": Cantidad que vamos a estakear *(no podemos delegar el 100% pues necesitamos algunos fondos libres para la comisión de la transacción y futuros movimientos)*
+- "`Reward Address`": Wallet donde irán los AVAX que obtendremos como beneficio por stakear nuestros fondos, podemos seleccionar "Use this wallet" para que los beneficios vayan a la misma wallet desde la que estamos realizando el stake, o "Custom Address" para que vayan a otra wallet.
 ![image18-gif](/images/ava4.gif)
 
 ### Seleccionamos el tiempo que queremos que nuestros fondos estén delegados, la cantidad que deseamos delegar *(de nuevo, no delegar el 100% de nuestros fondos)* y hacemos clic en "CONFIRM" para confirmar la delegación.
@@ -94,7 +94,7 @@
 ### Como antes nos muestra los valores de la transacción que vamos a realizar, y hacemos clic en "SUBMIT".
 ![image20](/images/ava20.png)
 
-### Nos muestra el `Tx ID` que es el hash de nuestra transacción.
+### Nos muestra el `Tx ID` que es el hash *(el identificador)* de nuestra transacción.
 ![image21](/images/ava21.png)
 
 ### Si en la pestaña "Earn" selecciamos "VIEW REWARDS" podemos ver el beneficio *potencial* que obtendremos.
