@@ -10,7 +10,7 @@
 
 <p align="center"> Accedemos a <a href="https://wallet.avax.network">wallet.avax.network</a> </p>
 <p align="center"> 
-<img src="/images/ava1.png)">
+<img src="/images/ava1.png">
 </p>
 
 <p align="center">  Arriba a la derecha podemos ver "Mainnet", hacemos clic y seleccionamos "Fuji":</p>
