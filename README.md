@@ -9,7 +9,6 @@
 <p align="center"> Lo primero que hacemos para tener un poco más de seguridad en nuestras wallets es cambiar la forma en la que accedemos a la wallet. Para ello abrimos el navegador en modo incógnito o una ventana privada, esto se hace para que nuestro navegador no guarde ninguna información de lo que vamos a hacer. </p>
 
 <p align="center"> Accedemos a <a href="https://wallet.avax.network">wallet.avax.network</a> </p>
-
 <p align="center"> 
 <img src="/images/ava1.png)">
 </p>
