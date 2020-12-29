@@ -3,7 +3,7 @@
 <i align="center">  Con esta guía se pretende ayudar a entender el proceso de hacer staking o delegar nuestros fondos en la blokchain de Avalanche, utilizaremos la testnet (red de pruebas) Fuji, pero el proceso es el mismo para la mainnet (red principal). </i>
 
 <p>
-Si quieres apoyar el trabajo que realizamos en <a href="https://delega.io/">DelegaNetworks</a> puedes delegar tus AVAX a alguno nuestros nodo en la mainnet estos son los IDs: 
+Si quieres apoyar el trabajo que realizamos en <a href="https://delega.io/">DelegaNetworks</a> puedes delegar tus AVAX a alguno nuestros nodo en mainnet, estos son los IDs: 
 
 <ul>
     <li>
@@ -159,7 +159,7 @@ La comisión de nuestro nodo es del <code>10%</code>, esto nos ayuda a mantener 
 </p>
 <HR>
   
-<p align="center">El Node ID de la testnet para el nodo de <a href="https://delega.io">DelegaNetworks</a> es `NodeID-NUYrotwWavozsHjCtxDJAMeDPHfzHCjN5`, introducimos en el buscador <i>(Search Node ID)</i> <code>NUYrotwWavozsHjCtxDJAMeDPHfzHCjN5</code> y hacemos clic en "Select", comprobamos la cantidad en stake, cuando termina el período que el validador ha indicado que estará funcionando, el uptime y la comisión <i>(cabe destacar que la comisión del validador sirve para pagar la infraestructura, mantenimiento, servicio de monitorización... por lo que un validador con un 0% de comisión está asumiendo pérdidas y no es sostenible en el tiempo, sólo los exchanges podrán mantener un 0% de comisión y si queremos que la red esté descentralizada y no controlada por exchanges debemos apostar por validadores de confianza y que no nos vayan a subir la comisión dentro de X tiempo sin darnos cuenta, en <big>DelegaNetworks mantendremos una comisión del 10% en nuestros nodos</big>)</i></p>
+<p align="center">El Node ID de la testnet para el nodo de <a href="https://delega.io">DelegaNetworks</a> es `NodeID-NUYrotwWavozsHjCtxDJAMeDPHfzHCjN5`, introducimos en el buscador <i>(Search Node ID)</i> <code>NUYrotwWavozsHjCtxDJAMeDPHfzHCjN5</code> y hacemos clic en "Select", comprobamos la cantidad en stake, cuando termina el período que el validador ha indicado que estará funcionando, el uptime y la comisión <i>(cabe destacar que la comisión del validador sirve para pagar la infraestructura, mantenimiento, servicio de monitorización... por lo que un validador con un 0% de comisión está asumiendo pérdidas y no es sostenible en el tiempo </i>(aunque esto Avalanche lo ha solucionado añadiendo un FEE mínimo)</i>, sólo los exchanges podrán mantener un 0% de comisión y si queremos que la red esté descentralizada y no controlada por exchanges debemos apostar por validadores de confianza y que no nos vayan a subir la comisión dentro de X tiempo sin darnos cuenta, en <big>DelegaNetworks mantendremos una comisión del 10% en nuestros nodos</big>)</i></p>
 <p align="center">
 <img src="/images/ava3.gif">
 </p>
