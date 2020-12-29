@@ -23,7 +23,7 @@ Si quieres apoyar el trabajo que realizamos en <a href="https://delega.io/">Dele
     </li>
 </ul>
 
-La comisión de nuestro nodo es del <code>10%</code>, esto nos ayuda a mantener una infraestructura segura, el nodo de la testnet y a publicar contenido en español para tratar de ayudar a la comunidad de habla hispana.
+La comisión de nuestros nodos es del <code>10%</code>, esto nos ayuda a mantener una infraestructura segura, el nodo de la testnet y a publicar contenido en español para tratar de ayudar a la comunidad de habla hispana.
 </p>
 
 <p align="center"> En mainnet nuestras wallet de Avalanche empiezan por <code>X-avax</code> y en la testnet Fuji empiezan por <code>X-fuji</code></p>
