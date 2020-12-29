@@ -2,20 +2,26 @@
 
 <i align="center">  Con esta guía se pretende ayudar a entender el proceso de hacer staking o delegar nuestros fondos en la blokchain de Avalanche, utilizaremos la testnet (red de pruebas) Fuji, pero el proceso es el mismo para la mainnet (red principal). </i>
 
-<p align="center">
+<p>
 Si quieres apoyar el trabajo que realizamos en <a href="https://delega.io/">DelegaNetworks</a> puedes delegar tus AVAX a alguno nuestros nodo en la mainnet estos son los IDs: 
 
-<a href="https://avascan.info/staking/validator/NodeID-MuJYGEEzMEFknyeU9poHBuHTQ2jxnfx4w" target="_blank">
-    <code>NodeID-MuJYGEEzMEFknyeU9poHBuHTQ2jxnfx4w</code>
-</a>
-
-<a href="https://avascan.info/staking/validator/NodeID-4ZHy4xceLwAA77NDx71PXnrgC7GSNw5wh" target="_blank">
-    <code>NodeID-4ZHy4xceLwAA77NDx71PXnrgC7GSNw5wh</code>
-</a>
-
-<a href="https://avascan.info/staking/validator/NodeID-9KHNWeNraeHzLzLUbsZ2tUbW5AcHG2vCt" target="_blank">
-    <code>NodeID-9KHNWeNraeHzLzLUbsZ2tUbW5AcHG2vCt</code>
-</a>
+<ul>
+    <li>
+        <a href="https://avascan.info/staking/validator/NodeID-MuJYGEEzMEFknyeU9poHBuHTQ2jxnfx4w" target="_blank">
+            <code>NodeID-MuJYGEEzMEFknyeU9poHBuHTQ2jxnfx4w</code>
+        </a>
+    </li>
+    <li>
+        <a href="https://avascan.info/staking/validator/NodeID-4ZHy4xceLwAA77NDx71PXnrgC7GSNw5wh" target="_blank">
+            <code>NodeID-4ZHy4xceLwAA77NDx71PXnrgC7GSNw5wh</code>
+        </a>
+    </li>
+    <li>
+        <a href="https://avascan.info/staking/validator/NodeID-9KHNWeNraeHzLzLUbsZ2tUbW5AcHG2vCt" target="_blank">
+            <code>NodeID-9KHNWeNraeHzLzLUbsZ2tUbW5AcHG2vCt</code>
+        </a>
+    </li>
+</ul>
 
 La comisión de nuestro nodo es del <code>10%</code>, esto nos ayuda a mantener una infraestructura segura, el nodo de la testnet y a publicar contenido en español para tratar de ayudar a la comunidad de habla hispana.
 </p>
