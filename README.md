@@ -30,9 +30,9 @@ La comisión de nuestro nodo es del <code>10%</code>, esto nos ayuda a mantener 
 
 > [Esta](https://faucet.avax-test.network/) es la faucet para pedir fondos.
 
-> La cantidad mínima para levantar un nodo en mainnet son `2000AVAX`.
+> La cantidad mínima para levantar un nodo en mainnet son `2000AVAX` y para delegar `25AVAX`.
 
-> El tiempo mínimo para que el nodo esté funcionando son 15 días.
+> El tiempo mínimo para que el nodo esté funcionando son 15 días, el máximo 1 año.
 
 > El FEE _(o la comisión mínima)_ del validador es del `2%`.
 
