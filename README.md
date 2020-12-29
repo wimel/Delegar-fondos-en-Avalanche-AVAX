@@ -30,6 +30,12 @@ La comisión de nuestro nodo es del <code>10%</code>, esto nos ayuda a mantener 
 
 > [Esta](https://faucet.avax-test.network/) es la faucet para pedir fondos.
 
+> La cantidad mínima para levantar un nodo en mainnet son `2000AVAX`.
+
+> El tiempo mínimo para que el nodo esté funcionando son 15 días.
+
+> El FEE _(o la comisión mínima)_ del validador es del `2%`.
+
 <p align="center"> Lo primero que hacemos para tener un poco más de seguridad en nuestras wallets es cambiar la forma en la que accedemos a la wallet. Para ello abrimos el navegador en modo incógnito o una ventana privada, esto se hace para que nuestro navegador no guarde ninguna información de lo que vamos a hacer. </p>
 
 <p align="center"> Accedemos a <a href="https://wallet.avax.network">wallet.avax.network</a> </p>
