@@ -7,23 +7,28 @@ Si quieres apoyar el trabajo que realizamos en <a href="https://delega.io/">Dele
 
 <ul>
     <li>
-        <a href="https://avascan.info/staking/validator/NodeID-MuJYGEEzMEFknyeU9poHBuHTQ2jxnfx4w" target="_blank">
-            <code>NodeID-MuJYGEEzMEFknyeU9poHBuHTQ2jxnfx4w</code>
+        <a href="https://avascan.info/staking/validator/NodeID-Jrz5xb8xY25XizFc4a2q37KgqufTh5qwe" target="_blank">
+            <code>NodeID-Jrz5xb8xY25XizFc4a2q37KgqufTh5qwe</code>
         </a>
     </li>
     <li>
-        <a href="https://avascan.info/staking/validator/NodeID-4ZHy4xceLwAA77NDx71PXnrgC7GSNw5wh" target="_blank">
-            <code>NodeID-4ZHy4xceLwAA77NDx71PXnrgC7GSNw5wh</code>
+        <a href="https://avascan.info/staking/validator/NodeID-Hi4dNVhpwKsdERYiBmuHUMDdnBLCSMg4b" target="_blank">
+            <code>NodeID-Hi4dNVhpwKsdERYiBmuHUMDdnBLCSMg4b</code>
         </a>
     </li>
     <li>
-        <a href="https://avascan.info/staking/validator/NodeID-9KHNWeNraeHzLzLUbsZ2tUbW5AcHG2vCt" target="_blank">
-            <code>NodeID-9KHNWeNraeHzLzLUbsZ2tUbW5AcHG2vCt</code>
+        <a href="https://avascan.info/staking/validator/NodeID-EGD868ARpCgfRUQzrvt4oVDxncByCoTnF" target="_blank">
+            <code>NodeID-EGD868ARpCgfRUQzrvt4oVDxncByCoTnF</code>
+        </a>
+    </li>
+    <li>
+        <a href="https://avascan.info/staking/validator/NodeID-PwbsH4btLPKASLeFymSqjLaxqYd9mvL2J" target="_blank">
+            <code>NodeID-PwbsH4btLPKASLeFymSqjLaxqYd9mvL2J</code>
         </a>
     </li>
 </ul>
 
-La comisión de nuestros nodos es del <code>10%</code>, esto nos ayuda a mantener una infraestructura segura, el nodo de la testnet y a publicar contenido en español para tratar de ayudar a la comunidad de habla hispana.
+La comisión de nuestros nodos es del <code>4%</code>, esto nos ayuda a mantener una infraestructura segura, el nodo de la testnet y a publicar contenido en español para tratar de ayudar a la comunidad de habla hispana.
 </p>
 
 <p align="center"> En mainnet nuestras wallet de Avalanche empiezan por <code>X-avax</code> y en la testnet Fuji empiezan por <code>X-fuji</code></p>
@@ -33,8 +38,6 @@ La comisión de nuestros nodos es del <code>10%</code>, esto nos ayuda a mantene
 > La cantidad mínima para levantar un nodo en mainnet son `2000AVAX` y para delegar `25AVAX`.
 
 > El tiempo mínimo para que el nodo esté funcionando son 15 días, el máximo 1 año.
-
-> El FEE _(o la comisión mínima)_ del validador es del `2%`.
 
 <p align="center"> Lo primero que hacemos para tener un poco más de seguridad en nuestras wallets es cambiar la forma en la que accedemos a la wallet. Para ello abrimos el navegador en modo incógnito o una ventana privada, esto se hace para que nuestro navegador no guarde ninguna información de lo que vamos a hacer. </p>
 
